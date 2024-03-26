@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 👨🏻‍💻 I’m currently working as Software Developer Jr. 
-- 📚 I’m currently learning Laravel and InfluxDB.
+- 👨🏻‍💻 I’m currently working as Software Developer Jr. with main focus in Laravel and Vue.
 
 <!--<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
