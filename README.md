@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! 👋
 
 - 👨🏻‍💻 I’m currently working as Software Developer with main focus in Laravel and Vue.
 
