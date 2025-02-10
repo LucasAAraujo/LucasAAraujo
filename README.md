@@ -1,7 +1,7 @@
 ### Olá! 👋
 
-- 👨🏻‍💻 I’m currently working as Software Developer with main focus in Laravel and Vue.
-- 🌱 I’m also proficient in Python, React, and MongoDB.
+- 👨🏻‍💻 I’m currently working as Software Developer with main focus in Laravel and React.
+- 🌱 I’m also proficient in Python, Vue, SQL, MongoDB and Azure.
 
 ## My Skills
 
