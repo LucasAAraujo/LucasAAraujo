@@ -1,10 +1,8 @@
 ### Olá! 👋 Eu sou o Lucas Alves
 
-- 👨🏻‍💻 Desenvolvedor **Full Stack** com foco atual em **Back-End**, atuando em sistemas críticos e de monitoramento em tempo real (usinas hidrelétricas e fotovoltaicas).
+- 👨🏻‍💻 Desenvolvedor **Full Stack** com foco atual em **Back-End**.
 - 🚀 Experiência sólida com **PHP/Laravel**, **Python/FastAPI**, **Node.js** e **React**, construindo soluções escaláveis, seguras e performáticas.
 - 🎓 Pós-graduando em **Inteligência Artificial e Machine Learning**, com base técnica forte em Python e boas práticas de desenvolvimento.
-- 🔭 Atualmente desenvolvendo e mantendo um ERP para monitoramento de ativos em tempo real, com integração a **InfluxDB** e observabilidade via **Grafana**.
-- 🌱 Buscando novos desafios com foco em performance, segurança e aprendizado contínuo.
 
 ## 🛠️ Skills
 
@@ -41,10 +39,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 &nbsp;
-
-<a href="https://github.com/LucasAAraujo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAAraujo&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
-</a>
 
 ## 📫 Contato
 
